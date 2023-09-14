@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactproject3/static/css/main.05b0d3b8.css",
+    "main.js": "/reactproject3/static/js/main.bd689912.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/reactproject3/static/js/787.3bf0dcc2.chunk.js",
+    "static/media/Alexandria-Bold.ttf": "/reactproject3/static/media/Alexandria-Bold.3a05f905452665b339bc.ttf",
+    "static/media/Alexandria-Black.ttf": "/reactproject3/static/media/Alexandria-Black.1cf183bfa9539102e245.ttf",
+    "static/media/Alexandria-Light.ttf": "/reactproject3/static/media/Alexandria-Light.6cd796b123efc33a9785.ttf",
+    "static/media/Alexandria-Regular.ttf": "/reactproject3/static/media/Alexandria-Regular.6089c9af6e02b70a15df.ttf",
+    "index.html": "/reactproject3/index.html",
+    "main.05b0d3b8.css.map": "/reactproject3/static/css/main.05b0d3b8.css.map",
+    "main.bd689912.js.map": "/reactproject3/static/js/main.bd689912.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/reactproject3/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b0d3b8.css",
+    "static/js/main.bd689912.js"
+  ]
+}
